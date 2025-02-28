@@ -51,7 +51,7 @@ Submit by doing 3 different commits for each topics
 
 - SQL ✅ | ✅
 - HTML ✅ | ✅
-- CSS ✅
+- CSS ✅ | ✅
 
 Example:
 
@@ -63,4 +63,4 @@ Your Summary in Git commit message format:
 
 - feat(sql): learn how each type of joining works, e.g., (INNER) JOIN, LEFT JOIN
 - feat(html): learn action attribute in `<form>` is simply just a URL to the destination
-- ?
+- feat(css): vanilla CSS or Tailwind CSS, doing mobile first makes things easier
