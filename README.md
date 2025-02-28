@@ -50,7 +50,7 @@ Answer by writing in Git message format for example: "feat(sql): a query languag
 Submit by doing 3 different commits for each topics
 
 - SQL ✅ | ✅
-- HTML ✅
+- HTML ✅ | ✅
 - CSS ✅
 
 Example:
@@ -62,5 +62,5 @@ feat(css): styling layouts using Flexbox and Grid for responsive design
 Your Summary in Git commit message format:
 
 - feat(sql): learn how each type of joining works, e.g., (INNER) JOIN, LEFT JOIN
-- ?
+- feat(html): learn action attribute in `<form>` is simply just a URL to the destination
 - ?
